@@ -1,9 +1,12 @@
 [![Build Status](https://travis-ci.org/mplacona/java-junit-template-project.png?branch=master)](https://travis-ci.org/mplacona/java-junit-template-project)
 
+Sample project for testing Travis CI
+
 # Java + Junit + Ant Template Project
 ----------
-A Java template project pre configured with Junit and Ant.
+A Java template project pre configured with Junit and Ant
 It comes integrated with Travis CI, so continuous integration comes out of the box
+
 
 ## Quick Start
 - Clone or download this repo
