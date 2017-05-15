@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/mplacona/java-junit-template-project.png?branch=master)](https://travis-ci.org/mplacona/java-junit-template-project)
 
-Sample project for testing Travis CI
+Sample project for testing Travis CI on our gazillion songs project
 
 # Java + Junit + Ant Template Project
 ----------
